@@ -7,13 +7,17 @@ Voor mijn stage opdracht moest ik een To-Do website maken, de website moest aan 
 * Maken, markeren en verwijderen van een To-Do.
 * Geen gebruik van chatgpt.
 
-Ik heb met dit project veel geleerd, mijn kennis uitgebreid en nieuwe dingen/technieken leren kennen.
-
 De functionaliteiten die ik heb toegevoegd aan mijn To-Do website zijn:
 
 * Registreren
 * Inloggen
 * Maken, markeren en verwijderen van een To-Do
+
+## Ontwikkeling
+
+Op het begin van de opdracht had ik nog nooit met de gevraagde technieken gewerkt, daardoor was het in het begin al snel lastig waardoor ik veel youtube ben gaan kijken met tutorials hoe het allemaal werkt. Ik begon met het opzetten van een nieuw Laravel project en heb hierbij ook Livewire geinstalleerd. Daarna ben ik begonnen met de database in te richten voor de To-Do's. Na de database ben ik de routing, de registratie backend en login backend gaan maken, nadat ik dit had gedaan wist ik ook gelijk hoe ik data kan opvragen van een formulier en dit in de database te zetten, Ook leerde ik hierdoor om data uit de database juist weer op te vragen, Deze technieken heb ik later weer gebruikt voor het creeën en het laten zien van de To-Do's. Daarna begon ik met de frontend van de formulieren en de andere pagina's zodat het er beter uitziet.
+
+Ik heb met dit project veel geleerd, mijn kennis uitgebreid en nieuwe dingen/technieken leren kennen.
 
 ## Getting Started
 
